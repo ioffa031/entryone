@@ -5,3 +5,39 @@
     box-sizing: border-box;     
 }
 
+body{
+    background-color: rgb(247, 231, 221);
+    
+}
+
+h2{
+    margin-top: 20px;
+    margin-left: 40px;
+    color:rgb(164, 130, 105);
+    font-size: 200%;
+}
+
+h2:hover {
+    color:white;
+}
+
+h1{
+    margin-left: 80px;
+    margin-bottom: 20px;
+    color:rgb(57, 44, 27);
+    font-size: 300%;
+}
+
+pre{
+    color:rgb(57, 44, 27);
+    font-size: 120%;
+}
+
+.stanza {
+    margin-left: 200px;
+}
+
+pre:hover {
+    font-size: 200%;
+}
+
