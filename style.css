@@ -15,6 +15,9 @@ h2{
     margin-left: 40px;
     color:rgb(164, 130, 105);
     font-size: 200%;
+    font-family: seismic-latin-variable, sans-serif;
+    font-style: normal;
+    font-variation-settings: "SEIS" 20, "wght" 200;
 }
 
 h2:hover {
@@ -26,11 +29,17 @@ h1{
     margin-bottom: 20px;
     color:rgb(57, 44, 27);
     font-size: 300%;
+    font-family: seismic-latin-variable, sans-serif;
+    font-style: normal;
+    font-variation-settings: "SEIS" 40, "wght" 300;
 }
 
 pre{
     color:rgb(57, 44, 27);
     font-size: 120%;
+    font-family: source-code-pro, monospace;
+    font-style: normal;
+    font-weight: 200;
 }
 
 .stanza {
